@@ -4,7 +4,7 @@ La aplicacion simula la interacción entre dos agentes de una casa, una ventana 
 
 # Capturas
 
-<img src="./docs/img/casa-inteligente.jpg" alt="Casa Inteligente App">
+<img src="./docs/img/casa-inteligente.JPG" alt="Casa Inteligente App">
 
 ## Desarrollo
 
